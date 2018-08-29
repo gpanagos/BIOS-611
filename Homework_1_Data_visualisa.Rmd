@@ -1,6 +1,6 @@
 ---
   title: "BIOS 611 HW1 Data visualisation (Chapter 3)"
-  author: "(Your full name here)"
+  author: "Arryn Panagos"
   date: "`r format(Sys.time(), '%m/%d/%Y')`"
   output: html_document
 ---
